@@ -1,0 +1,20 @@
+h1 {
+    background-color: rgb(214, 0, 0);
+
+}
+
+thead {
+    background-color: gray;
+}
+
+table {
+    margin: 0 auto; /* Center the table horizontally */
+    border-color: black;
+    width: 80%;
+}
+  
+td {
+    background-color: #f0f0f0; /* Gray background color for table cells */
+    padding: 10px; /* Add padding to cells for spacing */
+}
+  
